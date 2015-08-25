@@ -1,0 +1,14 @@
+{
+	"name": "lr-angular-test-template",
+	"version": "0.0.1",
+	"homepage": "https://github.com/LeftAndRight/lr-angular-test-template",
+	"authors": [
+		"Jonathan Beech <jon@leftandright.co.za>"
+	],
+	"license": "MIT",
+	"ignore": [
+		"**/.*",
+		"bower.json",
+		"README.md"
+	]
+}
