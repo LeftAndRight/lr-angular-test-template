@@ -1,0 +1,16 @@
+{
+  "name": "lr-angular-test-template",
+  "version": "0.0.1",
+  "authors": [
+    ""
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "angular": "~1.4.4",
+    "angular-mocks": "~1.4.4",
+    "angular-route": "~1.4.4",
+    "jquery": "~2.1.4",
+    "mobile-angular-ui": "~1.2.0-rc.3",
+    "rootclass": "~0.0.3"
+  }
+}
